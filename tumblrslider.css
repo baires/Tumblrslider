@@ -1,0 +1,51 @@
+#controller
+{
+	clear:left;
+	float:left;
+	left:50%;
+	list-style:none outside none;
+	margin:0;
+	padding:0;
+	position:relative;
+	text-align:center;
+}
+
+#controller li
+{
+	display:block;
+	float:left;
+	list-style:none;
+	margin:0 0 1em .8em;
+	position:relative;
+	right:50%;
+}
+
+#controller a,#controller a:visited
+{
+	border-radius:14px;
+	-moz-border-radius:14px;
+	-webkit-border-radius:14px;
+	background:none repeat scroll 0 0 #000;
+	cursor:pointer;
+	display:block;
+	float:left;
+	height:14px;
+	position:relative;
+	text-decoration:none;
+	text-indent:-9999px;
+	top:7px;
+	width:14px;
+}
+
+#controller a.current
+{
+	background:#c20000;
+}
+
+.controller_container
+{
+	float:left;
+	overflow:hidden;
+	position:relative;
+	width:100%;
+}
