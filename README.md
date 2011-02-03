@@ -31,3 +31,8 @@ The  `photoSize` is the size of the images to be displayed this can be:
 * 400
 * 500
 * 1280 (default)
+
+Demo
+====
+
+A very primitive demo can be found [here](http://magia.tumblr.com/post/3060792946/images-by-minimalwall)
